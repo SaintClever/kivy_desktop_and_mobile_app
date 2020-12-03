@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/anonymous/Desktop/python_projects/kivy_mobile_app/env"
+set -gx VIRTUAL_ENV "/Users/anonymous/Desktop/python_projects/kivy_desktop_and_mobile_app/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

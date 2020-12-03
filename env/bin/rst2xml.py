@@ -1,4 +1,4 @@
-#!/Users/anonymous/Desktop/python_projects/kivy_mobile_app/env/bin/python3.7
+#!/Users/anonymous/Desktop/python_projects/kivy_desktop_and_mobile_app/env/bin/python3.7
 
 # $Id: rst2xml.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: David Goodger <goodger@python.org>

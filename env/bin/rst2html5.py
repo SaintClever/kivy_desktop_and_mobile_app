@@ -1,4 +1,4 @@
-#!/Users/anonymous/Desktop/python_projects/kivy_mobile_app/env/bin/python3.7
+#!/Users/anonymous/Desktop/python_projects/kivy_desktop_and_mobile_app/env/bin/python3.7
 # -*- coding: utf8 -*-
 # :Copyright: © 2015 Günter Milde.
 # :License: Released under the terms of the `2-Clause BSD license`_, in short:

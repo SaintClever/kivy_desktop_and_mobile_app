@@ -1,4 +1,4 @@
-#!/Users/anonymous/Desktop/python_projects/kivy_mobile_app/env/bin/python3.7
+#!/Users/anonymous/Desktop/python_projects/kivy_desktop_and_mobile_app/env/bin/python3.7
 
 # $Id: rst2latex.py 5905 2009-04-16 12:04:49Z milde $
 # Author: David Goodger <goodger@python.org>

@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/Users/anonymous/Desktop/python_projects/kivy_mobile_app/env"
+setenv VIRTUAL_ENV "/Users/anonymous/Desktop/python_projects/kivy_desktop_and_mobile_app/env"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

@@ -1,4 +1,4 @@
-#!/Users/anonymous/Desktop/python_projects/kivy_mobile_app/env/bin/python3.7
+#!/Users/anonymous/Desktop/python_projects/kivy_desktop_and_mobile_app/env/bin/python3.7
 
 # $Id: rst2xetex.py 7847 2015-03-17 17:30:47Z milde $
 # Author: Guenter Milde
